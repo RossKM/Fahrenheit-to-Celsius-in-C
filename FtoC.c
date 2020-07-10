@@ -2,8 +2,6 @@
 
 /* A program that prints a table of Fahrenheit and Celsius with corrosponding values.*/
 
-
-
 int main()
 {
 	float fahr, celsius; /* fahr and celsius are floats to improve accuracy.*/
